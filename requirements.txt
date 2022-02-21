@@ -27,3 +27,6 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+#batch packages
+# git+ssh://git@github.com/MarineThierry/PACKAGE_NAME
